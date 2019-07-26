@@ -1,0 +1,187 @@
+
+
+*{
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body{
+	background: white;
+}
+
+header{
+  width: 100%;
+}
+
+
+.navegacion{
+  width: 900px;
+  height: 50px;
+	margin: 20px auto;
+  background:red;
+  text-align: top;
+  border: white;
+  border-width: 1px;
+  border-style: solid;
+  align-content: center;
+  border-radius: 50px;
+}
+
+p{
+color: black;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+right: auto;
+}
+
+/*Segunda página*/
+
+.menu > li > a{
+	display: block;
+	padding: 12222px;
+	color: black;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	text-decoration: none;
+}
+
+.menu li a:hover{
+	color:white;
+	transition: all .3s;
+}
+
+.container-all{
+  width: 100%;
+  max-width: 1000px;
+  margin: auto;
+  padding: 60px;
+  background: white;
+  margin-top: 100px;
+  border-top: 6px solid red;
+
+}
+
+.title{
+  font-size: 40px;
+  margin-bottom: 40px;
+  color: black;
+}
+
+.sub-title{
+  font-size: 30px;
+  font-weight: 1;
+  color:black;
+}
+
+.container-all img{
+  width: 300px;
+  float: right;
+  margin-right: 60px;
+  margin-bottom: 50px;
+}
+
+.container-all{
+  font-size: 18px;
+  font-weight: 300;
+  margin-top: 20px;
+}
+
+/*Segunda notcia*/
+
+
+
+/*noticia lite*/
+.navegacion-dos{
+	width: 1000px;
+	margin: 30px auto;
+  background:red;
+  text-align: center;
+
+}
+
+.menu-dos > li{
+	position: relative;
+	display: inline-block;
+}
+
+.menu-dos > li > a{
+	display: block;
+	padding: 15px 20px;
+	color: white;
+	font-family: 'Open sans';
+  text-decoration: none;
+}
+
+.menu-dos li a:hover{
+	color:black;
+	transition: all .3s;
+}
+
+.container-lite{
+  width: 100%;
+  max-width: 1000px;
+  margin: auto;
+  padding: 60px;
+  background: white;
+  margin-top: 100px;
+  border-top: 6px solid red;
+}
+
+.title-lite{
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.Sub2{
+  font-size: 322px;
+  font-weight: 3300;
+}
+
+.lateral-der{
+  right: 0px;
+  top: 25%;
+  height: 1112px;
+  position: absolute;
+  background-color: red;
+  color: white;
+  font-family: 'roboto';
+  color-interpolation-filters: auto;
+  text-align: center;
+  border: black;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 10px;
+  
+}
+
+
+.logo2{
+  left: 220px;
+  top: 1%;
+  position: absolute;
+}
+
+.logo3{
+  left: 833px;
+  top: 1%;
+  position: absolute;
+}
+
+.logo4{
+  left: 1033px;
+  top: 1%;
+  position: absolute;
+}
+
+.logo5{
+  left: 533px;
+  top: 1%;
+  position: absolute;
+}
+
+footer{
+  background-color:white;
+  height: 50px;
+  
+}
